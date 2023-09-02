@@ -1,0 +1,216 @@
+@media screen and (max-width : 600px) {
+    .container {
+        width: 400px;
+        height: 220px;
+    }
+
+    .countdown {
+        font-size: 34px;
+        width: 115%;
+        right: -28px;
+        height: 70px;
+        line-height: 70px;
+        border-radius: 6px;
+    }
+
+    .countdown2 {
+        margin: 40px 0px;
+        font-size: 0px;
+        height: 70px;
+        background-color: transparent;
+    }
+
+    .button {
+        width: 69px;
+        height: 37px;
+        font-size: 15px;
+    }
+
+
+    .list-item {
+
+        font-size: 15px;
+        margin-top: 10px;
+        border-radius: 8px;
+        padding: 3px 0px 3px 0px;
+    }
+
+    .ul_list {
+        width: 245px;
+        margin: 8px auto;
+        height: 214px;
+    }
+
+    .lap-clear {
+        width: 90px;
+        height: 30px;
+        border-radius: 30px;
+        font-size: 18px;
+        bottom: 38px;
+        right: 42%;
+    }
+}
+
+@media screen and (max-width : 500px) { 
+    .container {
+        margin-top: 45px;
+        width: 80%;
+        height: 196px;
+    }
+
+    .countdown {
+        font-size: 34px;
+        width: 118%;
+        right: -28px;
+        height: 60px;
+        line-height: 60px;
+        border-radius: 6px;
+    }
+
+    .countdown2 {
+        margin: 40px 0px;
+        font-size: 0px;
+        height: 70px;
+        background-color: transparent;
+    }
+
+    .button {
+        width: 69px;
+        height: 33px;
+        font-size: 15px;
+    }
+
+
+    .list-item {
+
+        font-size: 15px;
+        margin-top: 10px;
+        border-radius: 8px;
+        padding: 3px 0px 3px 0px;
+    }
+
+    .ul_list {
+        width: 180px;
+        margin: 8px auto;
+        height: 255px;
+    }
+
+    .lap-clear {
+        width: 70px;
+        height: 26px;
+        border-radius: 30px;
+        font-size: 15px;
+        bottom: 6px;
+        right: 43%;
+        padding: 3px;
+    }
+}
+
+@media screen and (max-width : 400px) { 
+    .container {
+        margin-top: 45px;
+        width: 80%;
+        height: 174px;
+    }
+
+    .countdown {
+        font-size: 25px;
+    width: 115%;
+    right: -21px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 6px;
+    }
+
+    .countdown2 {
+        margin: 25px 0px;
+        font-size: 0px;
+        height: 70px;
+    }
+
+    .button {
+        width: 45px;
+        height: 28px;
+        font-size: 12px;
+    }
+
+
+    .list-item {
+
+        font-size: 15px;
+        margin-top: 10px;
+        border-radius: 8px;
+        padding: 3px 0px 3px 0px;
+    }
+
+    .ul_list {
+        width: 150px;
+        margin: 8px auto;
+        height: 255px;
+    }
+
+    .lap-clear {
+        width: 70px;
+        height: 26px;
+        border-radius: 30px;
+        font-size: 15px;
+        bottom: 20px;
+        right: 41%;
+        padding: 3px;
+    }
+}
+
+
+@media screen and (max-width : 300px) { 
+    .container {
+        margin-top: 45px;
+        width: 90%;
+        height: 161px;
+    }
+
+    .countdown {
+        font-size: 25px;
+        width: 115%;
+        right: -18px;
+        height: 35px;
+        line-height: 35px;
+        border-radius: 6px;
+    }
+
+    .countdown2 {
+        margin: 18px 0px;
+        font-size: 0px;
+        height: 70px;
+    }
+
+    .button {
+        width: 45px;
+        height: 28px;
+        font-size: 12px;
+    }
+
+
+    .list-item {
+
+        font-size: 15px;
+        margin-top: 10px;
+        border-radius: 8px;
+        padding: 3px 0px 3px 0px;
+    }
+
+    .ul_list {
+        width: 150px;
+        margin: 8px auto;
+        height: 255px;
+    }
+
+    .lap-clear {
+        width: 70px;
+        height: 26px;
+        border-radius: 30px;
+        font-size: 15px;
+        bottom: 20px;
+        right: 38%;
+        padding: 3px;
+    }
+}
